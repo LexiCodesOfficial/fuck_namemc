@@ -1,5 +1,5 @@
 # Fuck NameMC
-## I Am Not The Original Owner! The Original Owner Is ![LambdAurora](https://github.com/LambdAurora)
+## I Am Not The Original Owner! The Original Owner Is [LambdAurora](https://github.com/LambdAurora)
 <!-- modrinth_exclude.start -->
 ![Java 17](https://img.shields.io/badge/language-Java%2017-9B599A.svg?style=flat-square) <!-- modrinth_exclude.end -->
 [![GitHub license](https://img.shields.io/github/license/LambdAurora/fuck_namemc?style=flat-square)](https://raw.githubusercontent.com/LambdAurora/fuck_namemc/1.17/LICENSE)
